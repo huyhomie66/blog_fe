@@ -14,11 +14,13 @@ Blog: list ,sort , create new one
 ## Project Structure
 Here is the directory structure of the project:
 ├── components
-│ ├── Component1.tsx # A React component that can be reused throughout the project.
-│ └── Component2.tsx # Another React component that can be reused throughout the project.
+│ ├── Component1.tsx 
+│ └── Component2.tsx 
 ├── service
-│ ├── api.ts # A module that provides an interface for making API calls.
-│ └── auth.ts # A module that provides authentication functionality.
+│ ├── api.ts 
+│ └── auth.ts 
+
+
 ├── utils
 │ ├── utility1.ts # A utility module that provides helper functions.
 │ └── utility2.ts # Another utility module that provides helper functions.
