@@ -9,7 +9,8 @@ react: v18
 run command: git clone https://github.com/huyhomie66/blog_fe/
 
 ## Usage
-Blog: list ,sort , create new one
+dev: npm install && npm run dev
+test: npm run test
 
 ## Project Structure
     .components
