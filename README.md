@@ -1,30 +1,17 @@
 ## Blog Frontend
 
-## Table of Contents
-
-Getting Started
-Usage
-Contributing
-License
-Getting Started
-Instructions on how to get a copy of the project up and running on your local machine.
-
 ## Prerequisites
-
 tool: vscode
 node: v18
 react: v18
 
 ## Installing
-
 run command: git clone https://github.com/huyhomie66/blog_fe/
 
 ## Usage
-
 Blog: list ,sort , create new one
 
 ## Project Structure
-
 Here is the directory structure of the project:
 ├── components
 │ ├── Component1.tsx # A React component that can be reused throughout the project.
