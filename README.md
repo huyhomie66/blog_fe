@@ -19,32 +19,30 @@ Here is the directory structure of the project:
 ├── service
 │ ├── api.ts 
 │ └── auth.ts 
-
-
 ├── utils
-│ ├── utility1.ts # A utility module that provides helper functions.
-│ └── utility2.ts # Another utility module that provides helper functions.
+│ ├── utility1.ts
+│ └── utility2.ts
 ├── hooks
-│ ├── useFetch.ts # A custom React hook that provides data fetching functionality.
-│ └── useAuth.ts # A custom React hook that provides authentication functionality.
+│ ├── useFetch.ts 
+│ └── useAuth.ts
 ├── styles
-│ ├── global.css # A global CSS file that applies styles to the entire app.
-│ └── styles.module.css # A CSS module file that provides local styles for specific components.
+│ ├── global.css 
+│ └── styles.module.css 
 ├── types
-│ ├── type1.ts # A TypeScript type definition for a specific data type.
-│ └── type2.ts # Another TypeScript type definition for a specific data type.
+│ ├── type1.ts 
+│ └── type2.ts
 ├── pages
 │ ├── api
-│ │ ├── api1.ts # A module that provides an interface for a specific API endpoint.
-│ │ └── api2.ts # Another module that provides an interface for a specific API endpoint.
-│ └── index.tsx # The main page of the application.
+│ │ ├── api1.ts 
+│ │ └── api2.ts 
+│ └── index.tsx
 ├── public
-│ ├── index.html # The main HTML file for the application.
+│ ├── index.html 
 │ └── assets
-│ ├── img1.png # An image file used in the application.
-│ └── img2.png # Another image file used in the application.
-├── package.json # The package configuration file for the application.
-└── README.md # A file that provides information about the application.
+│ ├── img1.png 
+│ └── img2.png 
+├── package.json 
+└── README.md 
 
 ## Production:
 https://blog-fe-onbs.vercel.app/
