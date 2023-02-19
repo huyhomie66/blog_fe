@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SortInput renders SortInput unchanged 1`] = `
+<div>
+  <div
+    class="chakra-select__wrapper css-g5kil8"
+  >
+    <select
+      class="chakra-select css-1ik61og"
+    >
+      <option
+        value="date_desc"
+      >
+        Sort by Date (Newest first)
+      </option>
+      <option
+        value="date_asc"
+      >
+        Sort by Date (Oldest first)
+      </option>
+    </select>
+    <div
+      class="chakra-select__icon-wrapper css-162mkon"
+    >
+      <svg
+        aria-hidden="true"
+        class="chakra-select__icon"
+        focusable="false"
+        role="presentation"
+        style="width: 1em; height: 1em; color: currentColor;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

@@ -10,6 +10,4 @@ const addBlog = (blog: IBlog) => {
   setLocalStorageItem(KEY, [...blogs, blog]);
 };
 
-const sortBlogs = (blogs: IBlog[]) => setLocalStorageItem(KEY, blogs);
-
-export { getBlogs, addBlog, sortBlogs };
+export { getBlogs, addBlog };

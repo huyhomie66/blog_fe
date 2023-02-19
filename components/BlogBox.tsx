@@ -11,10 +11,11 @@ interface IField {
   title: string;
   content: string;
 }
+
 const BlogBox: FC<Props> = (props) => {
   const Field = ({ title, content }: IField) => {
     if (props.isLoading) {
-      return <Skeleton />;
+      return <Skeleton data-testid="skeleton-loader" />;
     }
     return (
       <Flex>

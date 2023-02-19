@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogBox displays a skeleton loader when isLoading is true 1`] = `
+<div>
+  <div
+    class="css-v5drb2"
+  >
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+    <span
+      aria-busy="true"
+      aria-live="polite"
+    >
+      <span
+        class="react-loading-skeleton"
+      >
+        ‌
+      </span>
+      <br />
+    </span>
+  </div>
+</div>
+`;
+
+exports[`BlogBox displays the blog data when isLoading is false 1`] = `
+<div>
+  <div
+    class="css-v5drb2"
+  >
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Title
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Test Blog
+      </p>
+    </div>
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Created At
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        19/02/2023
+      </p>
+    </div>
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Created By
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Test User
+      </p>
+    </div>
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Content
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Test content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`BlogBox renders BlogBox unchanged 1`] = `
+<div>
+  <div
+    class="css-v5drb2"
+  >
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Title
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Test Blog
+      </p>
+    </div>
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Created At
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        20/02/2023
+      </p>
+    </div>
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Created By
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Test User
+      </p>
+    </div>
+    <div
+      class="css-k008qs"
+    >
+      <p
+        class="chakra-text css-in3yi3"
+      >
+        .
+        Content
+        : 
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Test content
+      </p>
+    </div>
+  </div>
+</div>
+`;
