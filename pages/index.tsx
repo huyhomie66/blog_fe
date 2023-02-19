@@ -4,6 +4,7 @@ import { useBlogList } from "@/hooks/useBlog";
 import { seedBlog } from "@/service/seed";
 import { useRouter } from "next/router";
 import BlogBox from "@/components/BlogBox";
+import React from "react";
 
 export default function Home() {
   const { blogs, isLoading, selectedValue, handleSortChange } = useBlogList();
